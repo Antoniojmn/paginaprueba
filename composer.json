@@ -1,0 +1,16 @@
+{
+    "name": "tuno/nuevapaginaweb45",
+    "autoload": {
+        "psr-4": {
+            "Tuno\\Nuevapaginaweb45\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tuno"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}
